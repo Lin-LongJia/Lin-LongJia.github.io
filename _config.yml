@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {url: "/LongJia.pdf", title: "CV"}
   - {file: "Project.md", title: "Projects"}
-  - {file: "Blog.md", title: "Blog"}
+  - {file: "/Blog.md", title: "Blog"}
   - {file: "Gallery.md", title: "Gallery"}
   - {file: "README.md", title: "About me"}
 
