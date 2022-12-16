@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/Lin-LongJia"}
   - {title: Twitter, icon: twitter, url: "/feed.xml"}
   - {title: Instagram, icon: instagram, url: "/feed.xml"}
-  - {title: itch.io, icon: itch-io, url: "https://kuu-1.itch.io/"}
+  - {title: itch.io, icon: f83a, url: "https://kuu-1.itch.io/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
