@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Hi"
 ---
 
 I am LongJia Lin.
