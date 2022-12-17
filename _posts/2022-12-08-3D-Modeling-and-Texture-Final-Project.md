@@ -1,6 +1,7 @@
 ---
 title:  "3D Modeling and Texture Final Project"
 layout: post
+youtubeId: ut1mba2--Nk
 categories: art
 ---
 
@@ -60,12 +61,4 @@ This is an orginal concept, with inspirations from many souces from Japanese Ani
 
 Presentation Video
 
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/ut1mba2--Nk}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
+{% include youtubePlayer.html id=page.youtubeId %}
