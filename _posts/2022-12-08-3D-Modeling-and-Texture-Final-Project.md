@@ -63,3 +63,5 @@ Presentation Video
 
 [Video](https://www.youtube.com/watch?v=ut1mba2--Nk)
 
+{% include youtubePlayer.html id=page.youtubeId %}
+
