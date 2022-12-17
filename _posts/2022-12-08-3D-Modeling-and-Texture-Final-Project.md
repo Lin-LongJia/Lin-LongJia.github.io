@@ -62,4 +62,4 @@ This is an orginal concept, with inspirations from many souces from Japanese Ani
 Presentation Video
 
 [Video](https://www.youtube.com/watch?v=ut1mba2--Nk)
-{% include youtubePlayer.html id=page.youtubeId %}
+
