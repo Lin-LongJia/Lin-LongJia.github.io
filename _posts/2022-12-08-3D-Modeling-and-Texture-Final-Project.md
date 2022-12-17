@@ -3,11 +3,14 @@ title:  "3D Modeling and Texture Final Project"
 layout: post
 categories: art
 ---
-##Excerpt
+
+## Excerpt
+
 This is an orginal concept model created and submitted as a final project for 3D modeling and Texturing class.
 Tools I used include: 3ds Max, Mudbox, and MotionBuilder
 
-###Design Inspiration
+### Design Inspiration
+
 This is an orginal concept, with inspirations from many souces from Japanese Animation and Video Games
 
 * Spider Man Miles Morales - with the suit and casual ware combo
@@ -15,10 +18,14 @@ This is an orginal concept, with inspirations from many souces from Japanese Ani
 * Neon Genesis Evangelion - Suit design inspirations
 * Durarara(Celty) - Helmet inspiration
 
-####Final Image
+#### Final Image
+
 ![Final_Lin](https://user-images.githubusercontent.com/29043325/208264531-3d344536-babe-483c-b6c0-e6c133274a0e.jpg)
+
 ------------------------------------------------------------------------------------------------------------------------
-###Modeling Process
+
+### Modeling Process
+
 1. 3ds Max
     1. Created a low poly character base, turbo smooth to create roundness
     2. Using Pull to extent a pants and a jacket 
