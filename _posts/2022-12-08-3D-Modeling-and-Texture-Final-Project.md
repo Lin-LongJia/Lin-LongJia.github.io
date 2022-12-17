@@ -60,4 +60,12 @@ This is an orginal concept, with inspirations from many souces from Japanese Ani
 
 Presentation Video
 
-{% include embed.html url="https://www.youtube.com/watch?v=ut1mba2--Nk" %}
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/ut1mba2--Nk}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
