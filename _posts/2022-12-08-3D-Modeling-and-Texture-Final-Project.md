@@ -9,6 +9,8 @@ categories: art
 This is an orginal concept model created and submitted as a final project for 3D modeling and Texturing class.
 Tools I used include: 3ds Max, Mudbox, and MotionBuilder
 
+
+
 ### Design Inspiration
 
 This is an orginal concept, with inspirations from many souces from Japanese Animation and Video Games
