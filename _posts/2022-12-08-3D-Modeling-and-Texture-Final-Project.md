@@ -5,7 +5,7 @@ youtubeId: ut1mba2--Nk
 categories: art
 ---
 
-https://user-images.githubusercontent.com/29043325/208280234-d6c7deea-e4ad-4912-b6b5-2003403c5280.png
+![Capture](https://user-images.githubusercontent.com/29043325/208280234-d6c7deea-e4ad-4912-b6b5-2003403c5280.png)
 
 This is an orginal concept model created and submitted as a final project for 3D modeling and Texturing class.
 Tools I used include: 3ds Max, Mudbox, and MotionBuilder
