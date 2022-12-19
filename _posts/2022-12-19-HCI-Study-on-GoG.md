@@ -1,5 +1,5 @@
 ---
-title:  "HCI-Study-on-Marvel's-Guardians-of-the-Galaxy-Game"
+title:  "HCI Study on Marvel's Guardians of the Galaxy Game"
 layout: post
 categories: blog
 ---
