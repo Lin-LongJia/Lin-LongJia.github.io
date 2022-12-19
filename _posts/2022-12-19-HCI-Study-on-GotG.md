@@ -10,7 +10,7 @@ My deep analysis of game design choices that influenced the UI decision that hin
 
 
 ## The Problems
-
+1
 
 
 ## Design Choices
