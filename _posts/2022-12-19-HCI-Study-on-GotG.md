@@ -15,6 +15,7 @@ This game also feature diaglogue and decision choices throughout the story which
 
 ## Design Choices
 1. Star Lord
+
     asd
    
 2. Team Abilities
