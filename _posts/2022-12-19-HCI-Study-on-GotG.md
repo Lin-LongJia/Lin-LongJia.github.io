@@ -8,6 +8,8 @@ categories: blog
 
 My deep analysis of game design choices that influenced the UI decision that hinders user experience and my interpretation how it should have been deigned
 
+
+
 ## Design Choices
 
 Marvel's Guardian of the Galaxy(GotG) is a game that puts extra emphasis on its mechanic to incorporate team skills instead of supports for a main character. Unlike the most of the action games where the main character can unlock various combination of basic keys to generate satifying impact and blows to enemy, the core control for Star Lord in shoot bullets and break shield with its elemental weapon. The fundamental combat system is to break shield and use everyone's ability to clear out this wave of the enemy, and stall to repeate the process for the next wave of enemies. This is demostrated throughout its initial chapters by as the game hightlights what each character's first ability can offer. Especially opening the charter with Rocket and Groot, demostrating that Groot can do a area of effect(AoE) root and Rocket is able to do high AoE damage, it is very intutivive hat the game wants you to use these abilits as combo pieces. 
