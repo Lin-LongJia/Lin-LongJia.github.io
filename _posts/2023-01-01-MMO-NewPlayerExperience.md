@@ -1,5 +1,5 @@
 ---
-title:  "MMOs: New Player Experience"
+title:  "MMOs: The New Player Experience"
 layout: post
 categories: blog
 ---
