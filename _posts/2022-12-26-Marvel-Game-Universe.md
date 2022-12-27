@@ -9,7 +9,7 @@ Marvel is tackling the AAA market, it is the next generation's entertainment mar
 
 
 
-## Marvel's
+## Marvel's Franchise
 
 Without realizing it there is alredy series of "Marvel's" game on the AAA market. Although they are not totally connected, but it is already a franchise. 
 
